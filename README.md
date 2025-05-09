@@ -30,7 +30,7 @@ This Python script automates the process of tagging MP3 files with metadata (tit
 
 1. Run the script with the path to your MP3 files:
    ```bash
-   python3 autotag.py '/path/to/mp3/files'
+   python3 mp3autotag.py '/path/to/mp3/files'
    ```
 
 2. Follow the interactive prompts:
@@ -44,7 +44,7 @@ This Python script automates the process of tagging MP3 files with metadata (tit
 ## Example
 
 ```bash
-python3 autotag.py '/home/user/Music/ArtistName'
+python3 mp3autotag.py '/home/user/Music/ArtistName'
 ```
 
 ### Output Example:
@@ -81,7 +81,7 @@ These dependencies are automatically installed when you run the script.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 
